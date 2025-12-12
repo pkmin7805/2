@@ -310,7 +310,7 @@ const App: React.FC = () => {
               <PenTool size={20} />
             </div>
             <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary-700 to-primary-500">
-              AI 블로그 작가
+              AI 블로그 파트너
             </h1>
           </div>
           <div className="text-sm font-medium text-gray-500 hidden sm:block">
